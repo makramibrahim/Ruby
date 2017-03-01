@@ -1,0 +1,48 @@
+Last login: Sat Jul 30 12:10:14 on console
+News-MacBook-Pro-2:~ Makram$ ibr
+-bash: ibr: command not found
+News-MacBook-Pro-2:~ Makram$ irb
+irb(main):001:0> 1 + 1
+=> 2
+irb(main):002:0> quit()
+News-MacBook-Pro-2:~ Makram$ sublime first.rb
+-bash: sublime: command not found
+News-MacBook-Pro-2:~ Makram$ ruby first.rb
+ruby: No such file or directory -- first.rb (LoadError)
+News-MacBook-Pro-2:~ Makram$ myruby first.rb
+-bash: myruby: command not found
+News-MacBook-Pro-2:~ Makram$ nano
+News-MacBook-Pro-2:~ Makram$ nano helloworld.rb
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6             File: helloworld.rb                      Modified  
+
+print ("Hello World")
+print ("What's your name: ")
+name = gets
+puts ("Hello + name")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        [ XOFF ignored, mumble mumble ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
